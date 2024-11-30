@@ -11,4 +11,6 @@ This project visualizes the population density of Australia using geospatial too
 - **3D Elevation Representation**: Population density visualized as peaks and valleys.
 - **Coastal vs. Inland Analysis**: Emphasizes the stark contrast in settlement patterns.
 - **Customizable Layers**: Ready to integrate additional data like infrastructure, land use, or climate zones.
-- ![APDM](https://github.com/user-attachments/assets/2495d6bb-345d-4e11-834a-7f4323913036)
+
+
+ ![APDM](https://github.com/user-attachments/assets/2495d6bb-345d-4e11-834a-7f4323913036)
