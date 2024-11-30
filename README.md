@@ -6,7 +6,7 @@ This project visualizes the population density of Australia using geospatial too
 - **Tools Used**:
   - QGIS: For geospatial data processing and map preparation.
   - Aerialod: For 3D rendering and visualization.
--**Data source**: [link to website](https://hub.worldpop.org/geodata/listing?id=76)
+- **Data source**: [link to website](https://hub.worldpop.org/geodata/listing?id=76)
 ## Features
 - **3D Elevation Representation**: Population density visualized as peaks and valleys.
 - **Coastal vs. Inland Analysis**: Emphasizes the stark contrast in settlement patterns.
